@@ -1,1 +1,8 @@
 234dff1aabdd4bc7f2634ad0d4027223
+234dff1aabdd4bc7f2634ad0d4027223
+
+
+
+link to the API Site Provider
+
+https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}
